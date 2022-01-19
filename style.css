@@ -1,0 +1,44 @@
+p{
+    font-weight: 700;
+}
+
+a:link {
+    color: rgb(255, 9, 9);
+  }
+  
+
+a:visited {
+    color: rgb(23, 63, 23);
+  }
+  
+  
+a:hover {
+    color: rgb(131, 7, 131);
+  }
+a{
+    text-decoration: none;
+} 
+
+.first{
+    
+}
+li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    float: right;
+}
+ul li{
+    padding: 10px;
+}
+
+.dropdown-menu-btn{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+
+}
+.dropdown-menu-item{
+    
+}
